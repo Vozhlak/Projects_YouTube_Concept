@@ -2,7 +2,7 @@
 Проект выполнил: Вожлаков И.В.
 
 ## Используемые технологии
--HTML
--CSS
--Normalize.css
--SVG Sprite Generator
+- HTML
+- CSS
+- Normalize.css
+- SVG Sprite Generator
